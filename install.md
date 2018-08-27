@@ -10,6 +10,9 @@
     sudo ln -s /usr/bin/python3 /usr/bin/python
  
     # Danach venv benutzen https://docs.python.org/3/tutorial/venv.html
+            python -m venv .
+            source bin/activate
+            pip install pip --upgrade
 
 ## Docker-CE
 

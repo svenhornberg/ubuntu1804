@@ -29,3 +29,6 @@ https://snapcraft.io/vscode
     sudo snap install vscode --classic
     
     Extensions: Gitlens 
+## Other
+
+    sudo snap install node --channel=10/stable --classic

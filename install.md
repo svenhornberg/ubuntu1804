@@ -13,11 +13,13 @@
     sudo apt-get install python3-dev libpython3-dev
     sudo apt-get install python3-mysqldb
     
-    pip install docker-comopse
 
 ## Docker-CE
 
 https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce
+
+    sudo apt install docker-compose
+
 
 
 ## Visual Studio Code

@@ -10,6 +10,7 @@
     sudo ln -s /usr/bin/python3 /usr/bin/python
     sudo ln -s /usr/bin/pip3 /usr/bin/pip
     
+    sudo apt-get install python3-dev libpython3-dev
     sudo apt-get install python3-mysqldb
 
 ## Docker-CE

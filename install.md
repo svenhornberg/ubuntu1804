@@ -12,6 +12,8 @@
     
     sudo apt-get install python3-dev libpython3-dev
     sudo apt-get install python3-mysqldb
+    
+    pip install docker-comopse
 
 ## Docker-CE
 

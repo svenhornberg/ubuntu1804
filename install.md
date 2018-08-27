@@ -32,3 +32,4 @@ https://snapcraft.io/vscode
 ## Other
 
     sudo snap install node --channel=10/stable --classic
+    sudo snap install aws-cli --classic

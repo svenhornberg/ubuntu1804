@@ -5,7 +5,7 @@
     sudo apt-get upgrade
 
 ## Python
-    sudo install python3-pip
+    sudo apt-get install python3-pip
 
     sudo ln -s /usr/bin/python3 /usr/bin/python
     sudo ln -s /usr/bin/pip3 /usr/bin/pip

@@ -5,13 +5,11 @@
     sudo apt-get upgrade
 
 ## Python
-    sudo apt-get install python3-pip
 
+    sudo apt-get install python3-venv 
     sudo ln -s /usr/bin/python3 /usr/bin/python
-    sudo ln -s /usr/bin/pip3 /usr/bin/pip
-    
-    sudo apt-get install python3-mysqldb
-    
+ 
+    # Danach venv benutzen https://docs.python.org/3/tutorial/venv.html
 
 ## Docker-CE
 
@@ -41,7 +39,7 @@ https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce
 
     sudo usermod -aG docker $USER
 
-    sudo apt install docker-compose
+    sudo apt install docker-compose #TODO: installiert python2 
 
 
 log in & log out

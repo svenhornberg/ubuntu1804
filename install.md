@@ -42,3 +42,4 @@ https://snapcraft.io/vscode
     
 ## TODO:
     https://github.com/robbyrussell/oh-my-zsh
+    https://gist.github.com/Bouke/11261620

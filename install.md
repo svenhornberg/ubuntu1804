@@ -39,3 +39,6 @@ https://snapcraft.io/vscode
 
     sudo snap install node --channel=10/stable --classic
     sudo snap install aws-cli --classic
+    
+## TODO:
+    https://github.com/robbyrussell/oh-my-zsh

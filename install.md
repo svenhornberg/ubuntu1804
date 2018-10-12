@@ -10,7 +10,7 @@
     sudo ln -s /usr/bin/python3 /usr/bin/python
  
     # Danach venv benutzen https://docs.python.org/3/tutorial/venv.html
-            python3 -m venv .
+            python3 -m venv env
             source bin/activate
             pip install pip --upgrade
 
